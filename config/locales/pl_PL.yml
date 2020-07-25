@@ -128,7 +128,7 @@ pl_PL:
         username: Nazwa użytkownika
       title: Zarządzaj użytkownikami
   add_to_google_calendar: "Dodaj do Kalendarza Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: グローバル教育 Labo
   bigbluebutton_exception: "Ups, wystąpił błąd podczas rozpoczynania spotkania!"
   cancel: Anuluj
   cookies:

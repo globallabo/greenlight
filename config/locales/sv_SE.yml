@@ -128,7 +128,7 @@ sv_SE:
         username: Användarnamn
       title: Hantera användare
   add_to_google_calendar: "Lägg till i Google Kalender"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: グローバル教育 Labo
   bigbluebutton_exception: "Oj, det var ett fel när du startade mötet!"
   cancel: Avbryt
   cookies:
