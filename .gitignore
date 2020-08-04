@@ -46,5 +46,7 @@ config/terms.md
 coverage*
 
 /atom-sftp-sync.json
-nginx.conf
 
+docker-compose.yml
+
+nginx.conf
