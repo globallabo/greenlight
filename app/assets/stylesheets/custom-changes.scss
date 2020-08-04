@@ -4,6 +4,10 @@
 }
 
 // Add bean logo
+#bean-logo-container {
+    display: inline-block;
+    vertical-align: middle;
+}
 #bean-logo {
     background: #ffffff image-url("bean_logo.png") no-repeat left top;
     background-size: 100px 169px;
