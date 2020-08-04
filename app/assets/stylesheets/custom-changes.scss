@@ -2,3 +2,8 @@
 .sign-in-button {
     display: none;
 }
+
+// Add bean logo
+#bean-logo {
+    background: #ffffff image-url("bean_logo.png") no-repeat left top;
+}
