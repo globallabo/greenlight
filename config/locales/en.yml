@@ -510,11 +510,11 @@ en:
       fail: Failed to delete room (%{error})
     enter_the_access_code: Enter the room's access code
     invalid_provider: You have entered an invalid url. Please check the url and try again.
-    invited: You have been invited to join
+    invited: Welcome to Bean.
     invite_participants: Invite Participants
     join: Join
     last_session: Last session on %{session}
-    login: Enter
+    login: Next
     owner: Owner
     owner_banned: This room is currently unavailable
     no_room:
@@ -538,7 +538,7 @@ en:
     remove_shared_access_error: There was an error removing the shared room from your list
     shared_access_success: Room shared successfully
     shared_access_error: There was an error sharing the room
-    start: Start
+    start: Next
     unavailable: This room is currently unavailable due to the owner's email not being verified.
     update_settings_error: There was an error updating the room settings
     update_settings_success: Room settings successfully updated
