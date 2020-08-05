@@ -55,7 +55,6 @@ module BbbServer
     join_opts[:userID] = uid if uid
     join_opts[:join_via_html5] = true
     join_opts["userdata-bbb_display_branding_area"] = true
-    join_opts["userdata-bbb_force_restore_presentation_on_new_events"] = true
 
     bbb_server.join_meeting_url(room.bbb_id, name, password, join_opts)
   end
