@@ -54,6 +54,7 @@ module BbbServer
     join_opts = {}
     join_opts[:userID] = uid if uid
     join_opts[:join_via_html5] = true
+    join_opts["userdata-bbb_display_branding_area"] = true
     join_opts["logo"] = "https://linove.5star-english.jp/global_logo.png"
 
     bbb_server.join_meeting_url(room.bbb_id, name, password, join_opts)
