@@ -293,7 +293,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "Bean is an online lesson system produced by Global Kyoiku Labo.\nIf you are a registered student, use the link and access code provided to enter your lesson room."
+    about: "Bean is an online lesson system produced by Global Kyoiku Labo.<br />If you are a registered student, use the link and access code provided to enter your lesson room."
     welcome: Welcome to Bean
     video: If you are a registered teacher, click here to sign in.
     upgrade: Show me how to upgrade to 2.0!
