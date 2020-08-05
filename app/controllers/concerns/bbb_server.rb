@@ -55,7 +55,6 @@ module BbbServer
     join_opts[:userID] = uid if uid
     join_opts[:join_via_html5] = true
     join_opts["userdata-bbb_display_branding_area"] = true
-    join_opts["logo"] = "https://linove.5star-english.jp/global_logo.png"
 
     bbb_server.join_meeting_url(room.bbb_id, name, password, join_opts)
   end
@@ -69,6 +68,7 @@ module BbbServer
       attendeePW: room.attendee_pw,
       moderatorOnlyMessage: options[:moderator_message],
       muteOnStart: options[:mute_on_start] || false,
+      logo: https://linove.5star-english.jp/global_logo.png,
       "meta_#{META_LISTED}": options[:recording_default_visibility] || false,
       "meta_bbb-origin-version": Greenlight::Application::VERSION,
       "meta_bbb-origin": "Greenlight",
