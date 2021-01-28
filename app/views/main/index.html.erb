@@ -19,8 +19,11 @@
       <div class="col-md-12 col-sm-12 text-center">
         <h1 id="main-text" class="display-4 mb-4"> <%= t("landing.welcome").html_safe %></h1>
         <p class="lead offset-lg-2 col-lg-8 col-sm-12 "><%= t("landing.about").html_safe %></p>
-        <%= link_to "https://meeting.5star-english.jp/bean/signin" do %>
+        <%= link_to "https://linove.5star-english.jp/bean_manual.pdf" do %>
           <h4><%= t("landing.video") %></h4>
+        <% end %>
+        <%= link_to "https://meeting.5star-english.jp/bean/signin" do %>
+          <h4><%= t("landing.signin") %></h4>
         <% end %>
       </div>
 
