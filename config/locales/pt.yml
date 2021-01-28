@@ -100,7 +100,7 @@ pt:
       edit_site_settings:
       edit_roles:
       manage_users:
-      invalid_assignment: 
+      invalid_assignment:
       colour:
         title:
         info:
@@ -227,6 +227,7 @@ pt:
     about: "Greenlight é um front-end simples para seu servidor de webconferências %{href}. Você pode criar suas próprias salas para hospedar sessões, ou se juntar a outras utilizando um link curto e conveniente."
     welcome: Bem vindo ao <span class="green-grad">Greenlight</span>.
     video: Assista ao nosso tutorial sobre como utilizar o Greenlight
+    signin: If you are a registered teacher, click here to sign in.
     upgrade: Mostre-me como atualizar para o 2.0!
     version: "Lançamos uma nova versão do Greenlight, entretanto sua base de dados é incompatível."
   language_default: Padrão (idioma do navegador)
@@ -384,7 +385,7 @@ pt:
       fail:
       signup:
     banned:
-      fail: 
+      fail:
     deprecated:
       new_signin:
       twitter_signin:

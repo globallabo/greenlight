@@ -100,7 +100,7 @@ el:
       edit_site_settings:
       edit_roles:
       manage_users:
-      invalid_assignment: 
+      invalid_assignment:
       colour:
         title:
         info:
@@ -227,6 +227,7 @@ el:
     about: "Το Greenlight είναι ένα απλό διαχειριστικό εργαλείο για το σύστημα τηλεδιάσκεψης ανοιχτού κώδικα %{href}. Μπορείτε να δημιουργήσετε τα δικά σας δωμάτια για να φιλοξενήσετε συνεδρίες ή να συμμετάσχετε σε άλλους χρησιμοποιώντας ένα σύντομο και βολικό σύνδεσμο."
     welcome: Καλωσήρθες στο <span class="green-grad"> Greenlight </span>.
     video: Παρακολουθήστε το σεμινάριο μας σχετικά με τη χρήση του Greenlight
+    signin: If you are a registered teacher, click here to sign in.
     upgrade: Δείξε μου πώς να αναβαθμίσω σε 2.0!
     version: "Έχουμε κυκλοφορήσει μια νέα έκδοση του Greenlight, αλλά η βάση δεδομένων σας δεν είναι συμβατή."
   language_default:
@@ -384,7 +385,7 @@ el:
       fail:
       signup:
     banned:
-      fail: 
+      fail:
     deprecated:
       new_signin:
       twitter_signin:
